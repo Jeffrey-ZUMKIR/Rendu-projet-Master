@@ -1,0 +1,4 @@
+repository "Virtual Remote - Template@JZumStudio@cloud"
+  path "/"
+    br "/main"
+    co "/main"
